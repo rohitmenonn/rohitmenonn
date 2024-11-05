@@ -16,6 +16,4 @@
 <p align="left">
 <a href="https://linkedin.com/in/rohit-menon-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aviral-s-79955a119" height="30" width="40" /></a>
 
-###### Credits: [Header Gif](https://stardust-specks.tumblr.com)
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:394A8C,100:394A8C&reversal=false&section=footer&descAlign=50&descAlignY=50" alt="footer"/>
