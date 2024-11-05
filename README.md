@@ -1,11 +1,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:394A8C,100:394A8C&reversal=false&section=header&descAlign=50&descAlignY=50" alt="Banner" />
 <h1>Hi, I'm Rohit.</h1>
 
-🔭 I’m currently working on **Serverless, Hasura**
+🔭 I’m currently working on **Serverless and Hasura**
 
-🌱 I’m currently learning **Springboot, Microservices, AWS**
+🌱 I’m currently learning **Springboot, Microservices, and AWS**
 
-💬 Ask me about **Cloud Architecture, System Design, C++, JS**
+💬 Ask me about **Cloud Architecture, System Design, and JS**
 
 📫 Reach out to me on **rohitmenon.m2001@gmail.com**
 
