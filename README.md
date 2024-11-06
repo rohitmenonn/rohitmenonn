@@ -7,7 +7,7 @@
 
 💬 Ask me about **Cloud Architecture, System Design, and JS**
 
-📫 Reach out to me on **rohitmenon.m2001@gmail.com**
+📫 Reach out to me at **rohitmenon.m2001@gmail.com**
 
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=aws,cpp,mongodb,express,react,nodejs,mysql,postgres,java,js,py,html,css,sass,php)](https://skillicons.dev)
