@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:394A8C,100:394A8C&reversal=false&section=header&descAlign=50&descAlignY=50" alt="Banner" />
 <h1>Hi, I'm Rohit.</h1>
 
-🔭 I’m currently working on **Serverless and Hasura**
+🔭 I’m currently working on **Serverless**
 
 🌱 I’m currently learning **Springboot, Microservices, and AWS**
 
