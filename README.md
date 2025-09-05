@@ -3,9 +3,9 @@
 
 🔭 I’m currently working on **Serverless**
 
-🌱 I’m currently learning **Springboot, Microservices, and AWS**
+🌱 I’m currently learning **Microservices, and Cloud Solutioning**
 
-💬 Ask me about **Cloud Architecture, System Design, and JS**
+💬 Ask me about **Backend Development, Cloud Computing**
 
 📫 Reach out to me at **rohitmenon.m2001@gmail.com**
 
