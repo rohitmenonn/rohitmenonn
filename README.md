@@ -2,7 +2,7 @@
 <h1>Hi👋, I'm Rohit.</h1>
 
 ### About Me
-- 🎓 Currently pursuing a **M.S. in Computer Science** at **Brown University (2025–2027)**  
+- 🎓 Pursuing a **M.S. in Computer Science** at **Brown University (2025–2027)**  
 - 💻 Previously @ Amadeus, Chargebee, and Samsung Research.  
 - 🚀 Experienced in navigating distributed systems, designing scalable APIs, and solutioning for the cloud.  
 
