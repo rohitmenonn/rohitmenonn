@@ -1,16 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:394A8C,100:394A8C&reversal=false&section=header&descAlign=50&descAlignY=50" alt="Banner" />
-<h1>Hi, I'm Rohit.</h1>
+<h1>Hi👋, I'm Rohit.</h1>
 
-🔭 I’m currently working on **Serverless**
-
-🌱 I’m currently learning **Microservices, and Cloud Solutioning**
-
-💬 Ask me about **Backend Development, Cloud Computing**
-
-📫 Reach out to me at **rohitmenon.m2001@gmail.com**
+### About Me
+- 🎓 Currently pursuing a **M.S. in Computer Science** at **Brown University (2025–2027)**  
+- 💻 Previously @ Amadeus, Chargebee, and Samsung Research.  
+- 🚀 Experienced in navigating distributed systems, designing backend APIs, and solutioning for the cloud.  
 
 ### Main skills:
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,mongodb,express,react,nodejs,mysql,postgres,java,js,py,html,css,sass,php,llama)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,mongodb,express,nodejs,mysql,postgres,java,js,py,html,css,sass,php,llama)](https://skillicons.dev)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
