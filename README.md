@@ -4,7 +4,7 @@
 ### About Me
 - 🎓 Currently pursuing a **M.S. in Computer Science** at **Brown University (2025–2027)**  
 - 💻 Previously @ Amadeus, Chargebee, and Samsung Research.  
-- 🚀 Experienced in navigating distributed systems, designing backend APIs, and solutioning for the cloud.  
+- 🚀 Experienced in navigating distributed systems, designing scalable APIs, and solutioning for the cloud.  
 
 ### Main skills:
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,cpp,mongodb,express,nodejs,mysql,postgres,java,js,py,html,css,sass,php,llama)](https://skillicons.dev)
